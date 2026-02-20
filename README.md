@@ -111,8 +111,8 @@ I treat every line of code like a craftsman treats his tools — with precision,
 
 <div align="center">
 
-<!-- Random quote — refreshes on every page load -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="520" />
+<!-- Anime Quote — High-uptime API Custom Card -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20this%20world,%20wherever%20there%20is%20light%20-%20there%20are%20also%20shadows.%20As%20long%20as%20the%20concept%20of%20winners%20exists,%20there%20must%20also%20be%20losers.&author=Madara%20Uchiha%20%E2%80%94%20Naruto" width="520" />
 
 </div>
 
