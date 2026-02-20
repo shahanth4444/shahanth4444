@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a0a0e,50:2d0a0e,80:6b0f1a,100:FF4655&height=200&text=Shahanth%20Krishna%20Reddy&fontSize=40&fontColor=c0caf5&animation=scaleIn&fontAlignY=35&fontFamily=Bebas+Neue&desc=MERN%20Stack%20Developer&descSize=14&descAlignY=55&descColor=ff6b6b" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=FF4655&center=true&vCenter=true&repeat=true&width=460&height=24&lines=Building+scalable+systems+that+endure.;MERN+Stack+%E2%80%A2+AI+Engineer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Discipline+is+the+bridge+between+goals+and+results." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=FF4655&center=true&vCenter=true&repeat=true&width=460&height=24&lines=Building+scalable+systems+that+endure.;MERN+Stack+%E2%80%A2+Software+Engineer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Discipline+is+the+bridge+between+goals+and+results." alt="Typing SVG" />
 </a>
 
 <br/>
